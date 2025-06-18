@@ -7,7 +7,7 @@ const App = () => {
       <div style={styles.container}>
         <h1 style={styles.heading}>💫 Twin Prime Generator 💫</h1>
         <TwinPrimeGenerator />
-      </div>
+      </div>  
     </div>
   );
 };

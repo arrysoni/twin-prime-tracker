@@ -14,7 +14,7 @@ const isPrime = (num) => {
 };
 
 
-// 
+// Generates the Twin Prime Pairs
 const TwinPrimeGenerator = () => {
   const [twinPrimes, setTwinPrimes] = useState([]);    // The useState hook returns a [variable: twinPrimes,function: setTwinPrimes]
   const [count, setCount] = useState(3);               // The useState hook returns a [variable: count,function: setCount]
