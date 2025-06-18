@@ -1,12 +1,65 @@
-# React + Vite
+# 💫 Twin Prime Generator 💫
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fun and interactive React app that generates and displays twin prime pairs in real-time. Styled with a soft and playful theme using shades of pink, purple, orange, and blue 🌸✨
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 What Are Twin Primes?
 
-## Expanding the ESLint configuration
+Twin primes are pairs of prime numbers that differ by 2.  
+For example:  
+- (3, 5)  
+- (5, 7)  
+- (11, 13)  
+- (17, 19)  
+...and so on.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🎯 Features
+
+- ✅ Generate the next twin prime pair one at a time
+- ✅ Track how many pairs have been generated
+- ✅ Display the largest twin prime found so far
+- ✅ Delete any specific pair individually
+- ✅ Reset the entire list and start fresh
+- ✅ Girly pastel theme with pink/purple/orange/blue color palette
+
+---
+
+## 🛠️ Built With
+
+- [React](https://reactjs.org/) – UI Library
+- JavaScript (ES6+)
+- CSS-in-JS (inline styling)
+- Optional: Tailwind/CSS Modules (can be added)
+
+---
+
+## 📦 Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/your-username/twin-prime-generator.git
+cd twin-prime-generator
+npm install
+npm start
+```
+
+✨ Sample Output
+<img src="">
+
+📁 Project Structure
+css
+Copy
+Edit
+src/
+├── App.jsx
+├── TwinPrimeGenerator.jsx
+└── TwinPrimeDisplay.jsx
+
+
+🙌 Acknowledgements
+Built with 💖 for learning math and coding through interactive visualization!
+
