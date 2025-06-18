@@ -48,7 +48,7 @@ npm start
 ```
 
 ✨ Sample Output
-<img src="">
+<img src="https://github.com/arrysoni/twin-prime-tracker/blob/main/src/assets/images/Screenshot%202025-06-18%20at%2011.38.04%E2%80%AFAM.png">
 
 📁 Project Structure
 css
